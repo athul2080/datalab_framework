@@ -1,2 +1,3 @@
 streamlit
 pip install streamlit pandas openpyxl
+pip install pandas numpy faker scipy plotly dash databricks-langchain presidio-analyzer presidio-anonymizer
